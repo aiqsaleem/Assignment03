@@ -4,7 +4,7 @@ export default function Home() {
 
         {/* Left Section     */}
         <div className="border-2 flex border-black border-solid rounded-[10px]">
-        <div className="p-[50px] text-lg text-white bg-[#8b055f]">
+        <div className="p-[50px] text-lg text-white bg-[#088036]">
             <img className="h-[180px] w-[180px] border-2 border-solid border-white rounded-[90px]" src="profile picture.jpg" alt="photo" />
 
         <section>
@@ -42,9 +42,9 @@ export default function Home() {
         {/* Right Section  */}
 
         <div className="text-center">
-        <h1 className="text-[50px] font-bold text-[#980366]">Muhammad Faiq</h1>
+        <h1 className="text-[50px] font-bold text-[#088036]">Muhammad Faiq</h1>
         <section className="text-lg p-[50px]">
-          <h2 className="text-center pt-[30px] text-[1.5em] font-bold text-[#c00682]">Profile</h2>
+          <h2 className="text-center pt-[30px] text-[1.5em] font-bold text-[#088036]">Profile</h2>
           <p className="text-justify">
             I am a passionate and enthusiastic web developer with a strong
             foundation in front-end technologies such as HTML, CSS, JavaScript,
@@ -58,7 +58,7 @@ export default function Home() {
         </section>
 
         <section className="text-lg">
-            <h2 className="text-center pt-[30px] text-[1.5em] font-bold text-[#c00682]">Education</h2>
+            <h2 className="text-center pt-[30px] text-[1.5em] font-bold text-[#088036]">Education</h2>
             <p>
                 <b>The Educator Zaman Town Campus</b><br />
                 <i>2021-2022</i><br />
@@ -72,7 +72,7 @@ export default function Home() {
         </section>
 
         <section className="text-lg">
-            <h2 className="text-center pt-[30px] text-[1.5em] font-bold text-[#c00682]">Experience</h2>
+            <h2 className="text-center pt-[30px] text-[1.5em] font-bold text-[#088036]">Experience</h2>
             <p>Seeking an opportunity as a fresh candidate to start my
                 professional career.
             </p>
